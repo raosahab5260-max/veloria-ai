@@ -1,0 +1,4 @@
+# Copy this file to local.properties and add your Google Gemini API key.
+# Free-tier keys can be obtained at https://aistudio.google.com/apikey
+# Note: You can also enter or change your API key directly inside the app's Profile & Settings screen.
+GEMINI_API_KEY=
